@@ -1,0 +1,9 @@
+{
+  "name": "processmind-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix processmind run dev --",
+    "build": "npm --prefix processmind run build",
+    "preview": "npm --prefix processmind run preview"
+  }
+}
